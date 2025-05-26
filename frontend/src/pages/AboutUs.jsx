@@ -213,7 +213,7 @@ export default function Example() {
       </section>
 
       {/* Founders Section */}
-      <section className="py-16 px-4 bg-white">
+      {/* <section className="py-16 px-4 bg-white">
         <div className="max-w-6xl mx-auto">
           <h2 className="text-3xl font-bold text-center mb-12 text-gray-800">Our Founders</h2>
 
@@ -240,7 +240,7 @@ export default function Example() {
             <p className="text-right mt-4 font-medium">— Avadhesh Chaudhary</p>
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* CTA Section */}
       <section className="py-20 px-4 bg-gradient-to-b from-indigo-800 to-indigo-600 text-white">
